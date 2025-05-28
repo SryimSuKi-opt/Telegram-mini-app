@@ -1,0 +1,30 @@
+{
+  "name": "telegram-mini-app",
+  "version": "1.0.0",
+  "description": "E-commerce Telegram Mini App with KHQR/ABA Payway integration",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "telegram",
+    "mini-app",
+    "e-commerce",
+    "KHQR",
+    "ABA Payway"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@twa-dev/sdk": "^6.9.0",
+    "firebase": "^10.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.0.0"
+  }
+}
